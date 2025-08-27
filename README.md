@@ -13,6 +13,7 @@
 
 ## 🚀 About Me
 ✨ Passionate **MERN Stack Developer** from *Mirzapur, India*  
+
 💡 I love building **scalable web apps**, experimenting with **AI/ML**, and solving real-world problems.  
 
 - 🔭 Currently working on: **AI-based Crop Disease Detection** & **Real-Time Collaboration Apps**  
@@ -24,10 +25,6 @@
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -53,8 +50,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
-
-
 
 ## 📊 GitHub Stats & Activity  
 
@@ -101,3 +96,4 @@
   ✨ <b>"Keep Learning, Keep Building, Keep Growing"</b> ✨  
   <br/>⭐ From [manisha694](https://github.com/manisha694)
 </p>
+
